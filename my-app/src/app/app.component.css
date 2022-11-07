@@ -1,0 +1,13 @@
+.main{
+    text-align: center;
+}
+
+.container{
+    /* text-align: center; */
+    /* position: ablosute; */
+    position: relative;
+    height: 800px;
+    width: 500px;
+    margin-left: 600px ;
+    background-color: lightgray;
+}

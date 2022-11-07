@@ -1,0 +1,30 @@
+.container-home{
+    height: 300px;
+    width:60%;
+    background-color: cornsilk;
+    margin: auto;
+    padding: 10px;
+    /* position: relative; */
+}
+.heading{
+    text-align: center;
+}
+
+
+.sub-container1{
+    /* height: 100%; */
+    width: 40%;
+    float: left;
+    /* position: absolute; */
+    
+}
+
+.sub-container2{
+    /* position: ; */
+    /* height: 100%; */
+    width: 55%;
+    font-size: 20px;
+    float: right;
+    padding: 5px;
+    /* align-items: ; */
+}
